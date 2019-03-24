@@ -2,9 +2,9 @@
 ==Alessandro Budroni 
 
 ~~~
-{}{img_left}{photos/bio.png}{alt text}{239}{160}{http://www.uib.no/en/persons/Alessandro.Budroni/}
+{}{img_left}{photos/bio.jpg}{alt text}{200}{250}{http://www.uib.no/en/persons/Alessandro.Budroni/}
 PhD candidate,\n [https://www.uib.no/rg/selmer Selmer Center], \n[http://www.uib.no/en/ii Department of Informatics, Universitet i Bergen]\n
-Høyteknologisenteret i Bergen, Thormøhlensgate 55, \n
+Høyteknologisenteret, Thormøhlensgate 55, \n
 N-5008 Bergen, Norway \n 
 e-mail: /alessandro \[DOT\] budroni/ \[@\] uib \[DOT\] no \n
 e-mail: /budroni \[DOT\] alessandro/ \[@\] gmail \[DOT\] com \n
@@ -23,7 +23,7 @@ Hobbies: juggling, surfing, hiking, coding.
 [photos/stage.jpg >] Pairing-Based Cryptography \n
 [photos/flash.gif >] Identity-Based Cryptography \n
 
-=== Recent Publications
+== Recent Publications
 Drafts:
 - Alessandro Budroni, Federico Pintore \"Efficient hash maps to G2 on BLS curves"\, eprint 2017.
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
@@ -31,15 +31,16 @@ Drafts:
 Conference Publications:
 - Quoc-Tin Phan, Alessandro Budroni, Cecilia Pasquini, Francesco G. B. De Natale, \"A Hybrid Approach for Multimedia Use Verification\" MediaEval 2016
 
-=== Blog
-In collaboration with the blog [http://www.mathisintheair.org MathIsInTheAir], the following articles:
-- Maths and Juggling ([http://www.mathisintheair.org/wp/2018/01/matematica-e-giocoleria/ italian] - [http://www.mathisintheair.com/eng/2018/02/21/maths-and-juggling/ english])
-- SOK: la crittografia incontra la magia ([http://www.mathisintheair.org/wp/2018/04/sok-la-crittografia-incontra-la-magia/ italian])
-
-===  Teaching
+== Teaching
 
 - Teaching Assistant - [https://www.uib.no/en/course/INF247 Cryptology] - spring 2018
 - Teaching Assistant - [https://www.uib.no/en/course/INF143 Web Security] - fall 2018
 - Teaching Assistant - [https://www.uib.no/en/course/INF142 Computer Networks] - spring 2019
+
+== Blog
+In collaboration with the blog [http://www.mathisintheair.org MathIsInTheAir], the following articles:
+- Maths and Juggling ([http://www.mathisintheair.org/wp/2018/01/matematica-e-giocoleria/ italian] - [http://www.mathisintheair.com/eng/2018/02/21/maths-and-juggling/ english])
+- SOK: la crittografia incontra la magia ([http://www.mathisintheair.org/wp/2018/04/sok-la-crittografia-incontra-la-magia/ italian])
+ - È veramente importante finanziare la ricerca in Matematica Pura? ([http://www.mathisintheair.org/wp/2019/03/finanziare-la-ricerca-in-matematica-pura/ italian])
 \n
 
