@@ -25,7 +25,8 @@ Hobbies: juggling, surfing, hiking, coding.
 
 == Recent Publications
 Drafts:
-- Alessandro Budroni, Federico Pintore \"Efficient hash maps to G2 on BLS curves"\, eprint 2017.
+- Alessandro Budroni, Andrea Tenti, \"The Mersenne Low Hamming Combination Search Problem can be reduced to an ILP Problem"\, eprint 2019.
+- Alessandro Budroni, Federico Pintore, \"Efficient hash maps to G2 on BLS curves"\, eprint 2017.
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
 
 Conference Publications:
