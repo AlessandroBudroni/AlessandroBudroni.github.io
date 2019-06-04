@@ -1,6 +1,6 @@
 # Personal Website
 
-[LINK](alessandro.budroni.github.io) 
+[LINK](alessandrobudroni.github.io) 
 
 compile it:
 ```
