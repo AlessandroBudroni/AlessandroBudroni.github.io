@@ -26,6 +26,7 @@ Hobbies: juggling, surfing, hiking, coding.
 == Publications
 Drafts:
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
+- Alessandro Budroni, Benjamin Chetioui, Ermes Franch \"Attacks on Integer-RLWE"\, ePrint 2020
 
 Conference Publications:
 - Alessandro Budroni, Andrea Tenti, \"The Mersenne Low Hamming Combination Search Problem can be reduced to an ILP Problem"\, AfricaCrypt 2019.
@@ -41,6 +42,7 @@ Journal Publications:
 - Teaching Assistant - [https://www.uib.no/en/course/INF142 Computer Networks] - spring 2019
 - Teaching Assistant - [https://www.uib.no/en/course/INF143 Applied Cryptography] - fall 2019
 - Teaching Assistant - [https://www.uib.no/en/course/INF140 Introduction to Cybersecurity] - spring 2020
+- Teaching Assistant - [https://www.uib.no/en/course/INF140 Introduction to Cybersecurity] - fall 2020
 
 == Blog
 In collaboration with the blog [http://www.mathisintheair.org MathIsInTheAir], the following articles:
