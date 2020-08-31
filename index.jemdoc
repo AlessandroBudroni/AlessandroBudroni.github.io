@@ -26,11 +26,11 @@ Hobbies: juggling, surfing, hiking, coding.
 == Publications
 Drafts:
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
-- Alessandro Budroni, Benjamin Chetioui, Ermes Franch \"Attacks on Integer-RLWE"\, ePrint 2020
+- Alessandro Budroni, Benjamin Chetioui, Ermes Franch, \"Attacks on Integer-RLWE"\, ePrint 2020.
 
 Conference Publications:
 - Alessandro Budroni, Andrea Tenti, \"The Mersenne Low Hamming Combination Search Problem can be reduced to an ILP Problem"\, AfricaCrypt 2019.
-- Quoc-Tin Phan, Alessandro Budroni, Cecilia Pasquini, Francesco G. B. De Natale, \"A Hybrid Approach for Multimedia Use Verification\" MediaEval 2016
+- Quoc-Tin Phan, Alessandro Budroni, Cecilia Pasquini, Francesco G. B. De Natale, \"A Hybrid Approach for Multimedia Use Verification\" MediaEval 2016.
 
 Journal Publications:
 - Alessandro Budroni, Federico Pintore, \"Efficient hash maps to G2 on BLS curves"\, Applicable Algebra in Engineering, Communication and Computing 2020.
