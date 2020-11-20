@@ -8,16 +8,18 @@ Høyteknologisenteret, Thormøhlensgate 55, \n
 N-5008 Bergen, Norway \n 
 e-mail: /alessandro \[DOT\] budroni/ \[@\] uib \[DOT\] no \n
 e-mail: /budroni \[DOT\] alessandro/ \[@\] gmail \[DOT\] com \n
-Member of [https://coinsrs.no/alessandro-budroni/ COINS Research School of Computer and Information Security]
+Member of [https://coinsrs.no/alessandro-budroni/ COINS Research School of Computer and Information Security] \n
+[https://www.linkedin.com/in/alessandro-budroni/ Linkedin] - [https://github.com/AlessandroBudroni/ GitHub] - [https://www.instagram.com/alessandro_budroni/ Instagram]
 ~~~
 
 == About me
 I received the B.S. degree at University of Cagliari in pure Mathematics and the M.Sc. degree at University of Trento in Coding Theory and Cryptography. I am now a PhD candidate in Computer Security at Univeristy of Bergen.
+
 I am always interested in hearing from colleagues, other cryptography fans, or just interesting creative folk, so feel free to contact me.
 
 Hobbies: juggling, surfing, hiking, coding.
 
-== Research interests
+== Research Interests
 [photos/tre.jpg >] Cryptoanalysis on LWE \n
 [photos/ladder.jpg >] Lattice-Based Cryptography \n
 [photos/stage.jpg >] Pairing-Based Cryptography \n
@@ -26,9 +28,9 @@ Hobbies: juggling, surfing, hiking, coding.
 == Publications
 Drafts:
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
+- Alessandro Budroni, Qian Guo, Thomas Johansson, Erik Mårtensson, Stankovski Wagner, \"Making the BKW Algorithm Practical for LWE\", eprint 2020.
 
 Conference Publications:
-- Alessandro Budroni, Qian Guo, Thomas Johansson, Erik Mårtensson, Stankovski Wagner, \"Making the BKW Algorithm Practical for LWE\", IndoCrypt 2020.
 - Alessandro Budroni, Benjamin Chetioui, Ermes Franch, \"Attacks on Integer-RLWE"\, ICICS 2020.
 - Alessandro Budroni, Andrea Tenti, \"The Mersenne Low Hamming Combination Search Problem can be reduced to an ILP Problem"\, AfricaCrypt 2019.
 - Quoc-Tin Phan, Alessandro Budroni, Cecilia Pasquini, Francesco G. B. De Natale, \"A Hybrid Approach for Multimedia Use Verification\", MediaEval 2016.
@@ -36,8 +38,11 @@ Conference Publications:
 Journal Publications:
 - Alessandro Budroni, Federico Pintore, \"Efficient hash maps to G2 on BLS curves"\, Applicable Algebra in Engineering, Communication and Computing 2020.
 
-== Teaching
+== Coding
+- I have been mantaining the Apache [https://github.com/apache/incubator-milagro-crypto-c milagro-crypto-c] and [https://github.com/apache/incubator-milagro-crypto-js milagro-crypto-js] libraries, IMO the best libraries in c and javascript supporoting pairing-based cryptography! Now I follow the projects and I plan to be more active again in the future.
+- I mantain the [https://github.com/FBBL/fbbl fbbl] (File-Based BKW for LWE) library. This is the first implementation of the BKW algorithm for LWE able to solve relatively large LWE instances.
 
+== Teaching
 - Teaching Assistant - [https://www.uib.no/en/course/INF247 Cryptology] - spring 2018
 - Teaching Assistant - [https://www.uib.no/en/course/INF143 Web Security] - fall 2018
 - Teaching Assistant - [https://www.uib.no/en/course/INF142 Computer Networks] - spring 2019
