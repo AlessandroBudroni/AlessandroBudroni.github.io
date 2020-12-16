@@ -28,9 +28,9 @@ Hobbies: juggling, surfing, hiking, coding.
 == Publications
 Drafts:
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
-- Alessandro Budroni, Qian Guo, Thomas Johansson, Erik Mårtensson, Stankovski Wagner, \"Making the BKW Algorithm Practical for LWE\", eprint 2020.
 
 Conference Publications:
+- Alessandro Budroni, Qian Guo, Thomas Johansson, Erik Mårtensson, Stankovski Wagner, \"Making the BKW Algorithm Practical for LWE\", IndoCrypt 2020.
 - Alessandro Budroni, Benjamin Chetioui, Ermes Franch, \"Attacks on Integer-RLWE"\, ICICS 2020.
 - Alessandro Budroni, Andrea Tenti, \"The Mersenne Low Hamming Combination Search Problem can be reduced to an ILP Problem"\, AfricaCrypt 2019.
 - Quoc-Tin Phan, Alessandro Budroni, Cecilia Pasquini, Francesco G. B. De Natale, \"A Hybrid Approach for Multimedia Use Verification\", MediaEval 2016.
