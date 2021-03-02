@@ -40,7 +40,7 @@ Journal Publications:
 - Alessandro Budroni, Federico Pintore, \"Efficient hash maps to G2 on BLS curves"\, Applicable Algebra in Engineering, Communication and Computing 2020.
 
 == Coding
-- [EHT-C](https://github.com/AlessandroBudroni/EHT-C) is my PoC of our new public-key cryptosystem EHT on github.
+- [https://github.com/AlessandroBudroni/EHT-C EHT-C] is my PoC of our new public-key cryptosystem EHT on github.
 - I mantain the [https://github.com/FBBL/fbbl fbbl] (File-Based BKW for LWE) library. This is the first implementation of the BKW algorithm for LWE able to solve relatively large LWE instances.
 - I have been mantaining the Apache [https://github.com/apache/incubator-milagro-crypto-c milagro-crypto-c] and [https://github.com/apache/incubator-milagro-crypto-js milagro-crypto-js] libraries, IMO the best libraries in c and javascript supporoting pairing-based cryptography! Now I follow the projects and I plan to be more active again in the future.
 
