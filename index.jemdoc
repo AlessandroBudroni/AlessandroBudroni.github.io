@@ -3,12 +3,10 @@
 
 ~~~
 {}{img_left}{photos/bio.jpg}{alt text}{200}{250}{http://www.uib.no/en/persons/Alessandro.Budroni/}
-PhD candidate,\n [https://www.uib.no/rg/selmer Selmer Center], \n[http://www.uib.no/en/ii Department of Informatics, Universitet i Bergen]\n
-Høyteknologisenteret, Thormøhlensgate 55, \n
-N-5008 Bergen, Norway \n 
-e-mail: /alessandro \[DOT\] budroni/ \[@\] uib \[DOT\] no \n
+PhD candidate, [https://www.uib.no/rg/selmer Selmer Center], [http://www.uib.no/en/ii Department of Informatics, Universitet i Bergen]\n
+Cryptography Engineer, [https://www.tii.ae/cryptography Technology Innovation Institute, Abu Dhabi] \n
+e-mail: /alessandro \[DOT\] budroni/ \[@\] tii \[DOT\] ae \n
 e-mail: /budroni \[DOT\] alessandro/ \[@\] gmail \[DOT\] com \n
-Member of [https://coinsrs.no/alessandro-budroni/ COINS Research School of Computer and Information Security] \n
 [https://www.linkedin.com/in/alessandro-budroni/ Linkedin] - [https://github.com/AlessandroBudroni/ GitHub] - [https://www.instagram.com/alessandro_budroni/ Instagram]
 ~~~
 
@@ -23,7 +21,7 @@ Hobbies: skiing (downhill and cross-country), surfing, hiking, climbing, coding,
 [photos/tre.jpg >] Cryptoanalysis on LWE \n
 [photos/ladder.jpg >] Lattice-Based Cryptography \n
 [photos/stage.jpg >] Pairing-Based Cryptography \n
-[photos/flash.gif >] Identity-Based Cryptography \n
+[photos/flash.gif >] Secure Implementations \n
 
 == Publications
 Drafts:
