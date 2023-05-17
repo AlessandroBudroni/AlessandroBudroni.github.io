@@ -23,12 +23,8 @@ Hobbies: photography, skiing (downhill and cross-country), hiking, surfing (when
 [photos/flash.gif >] Secure Implementations \n
 
 == Publications
-Drafts:
-- Alessandro Budroni, Erik Mårtensson, \"Improved Estimation of Key Enumeration with Applications to Solving LWE"\, ePrint 2023.
-- Alessandro Budroni, Igor Semaev, \"New Public-Key Crypto-System EHT"\, Arxiv 2021.
-- Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
-
 Conference Publications:
+- Alessandro Budroni, Erik Mårtensson, \"Improved Estimation of Key Enumeration with Applications to Solving LWE"\, ISIT 2023.
 - Alessandro Budroni, Qian Guo, Thomas Johansson, Erik Mårtensson, Paul Stankovski Wagner, \"Making the BKW Algorithm Practical for LWE\", IndoCrypt 2020.
 - Alessandro Budroni, Benjamin Chetioui, Ermes Franch, \"Attacks on Integer-RLWE"\, ICICS 2020.
 - Alessandro Budroni, Andrea Tenti, \"The Mersenne Low Hamming Combination Search Problem can be reduced to an ILP Problem"\, AfricaCrypt 2019.
@@ -37,6 +33,10 @@ Conference Publications:
 Journal Publications:
 - Alessandro Budroni, Qian Guo, Thomas Johansson, Erik Mårtensson, Paul Stankovski Wagner, \"Improvements on Making BKW Practical for Solving LWE\", Special Issue "Public-Key Cryptography in the Post-quantum Era" of Cryptography, MDPI, 2021.
 - Alessandro Budroni, Federico Pintore, \"Efficient hash maps to G2 on BLS curves"\, Applicable Algebra in Engineering, Communication and Computing 2020.
+
+Drafts:
+- Alessandro Budroni, Igor Semaev, \"New Public-Key Crypto-System EHT"\, Arxiv 2021.
+- Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
 
 == Coding
 - [https://github.com/AlessandroBudroni/EHT-C EHT-C] is my PoC of our new public-key cryptosystem EHT on github.
