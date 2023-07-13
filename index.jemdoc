@@ -39,12 +39,12 @@ Drafts:
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
 
 == Coding
-- [https://github.com/AlessandroBudroni/EHT-C EHT-C] is my PoC of our new public-key cryptosystem EHT on github.
+- [https://github.com/AlessandroBudroni/EHT-C EHT-C] is my PoC of the public-key cryptosystem EHT on github.
 - I am the creator of the [https://github.com/FBBL/rbbl rbbl] (RAM-Based BKW for LWE) library: a fast and parallelized library written in C to solve LWE instances.
 - I mantain the [https://github.com/FBBL/fbbl fbbl] (File-Based BKW for LWE) library. This is the first implementation of the BKW algorithm for LWE able to solve relatively large LWE instances.
-- I have been mantaining the Apache [https://github.com/apache/incubator-milagro-crypto-c milagro-crypto-c] and [https://github.com/apache/incubator-milagro-crypto-js milagro-crypto-js] libraries, IMO the best libraries in c and javascript supporting pairing-based cryptography! Now I follow the projects and I plan to be more active again in the future.
+- I have been mantaining the Apache [https://github.com/apache/incubator-milagro-crypto-c milagro-crypto-c] and [https://github.com/apache/incubator-milagro-crypto-js milagro-crypto-js] libraries.
 
-== Teaching
+== Teaching (University of Bergen)
 - Teaching Assistant - [https://www.uib.no/en/course/INF247 Cryptology] - spring 2018
 - Teaching Assistant - [https://www.uib.no/en/course/INF143 Web Security] - fall 2018
 - Teaching Assistant - [https://www.uib.no/en/course/INF142 Computer Networks] - spring 2019
