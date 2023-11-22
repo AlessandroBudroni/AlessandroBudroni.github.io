@@ -35,12 +35,14 @@ Journal Publications:
 - Alessandro Budroni, Federico Pintore, \"Efficient hash maps to G2 on BLS curves"\, Applicable Algebra in Engineering, Communication and Computing 2020.
 
 Drafts:
+- Najwa Aaraj, Slim Bettaieb, Loïc Bidoux, Alessandro Budroni, Victor Dyseryn, Andre Esser, Philippe Gaborit, Mukul Kulkarni, Victor Mateu, Marco Palumbi, Lucas Perin, Jean-Pierre Tillich, \"PERK"\, Tech. rep., National Institute of Standards and Technology
 - Alessandro Budroni, Jesús-Javier Chi-Domínguez, Mukul Kulkarni, \"Lattice Isomorphism as a Group Action and
 Hard Problems on Quadratic Forms", ePrint 2023
 - Alessandro Budroni, Igor Semaev, \"New Public-Key Crypto-System EHT"\, Arxiv 2021.
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
 
 == Coding
+- I am a member of the PERK signature submission to the NIST standardization competition and a contributer to the implementation.
 - [https://github.com/AlessandroBudroni/EHT-C EHT-C] is my PoC of the public-key cryptosystem EHT on github.
 - I am the creator of the [https://github.com/FBBL/rbbl rbbl] (RAM-Based BKW for LWE) library: a fast and parallelized library written in C to solve LWE instances.
 - I mantain the [https://github.com/FBBL/fbbl fbbl] (File-Based BKW for LWE) library. This is the first implementation of the BKW algorithm for LWE able to solve relatively large LWE instances.
