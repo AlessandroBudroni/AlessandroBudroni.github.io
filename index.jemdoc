@@ -42,7 +42,7 @@ Hard Problems on Quadratic Forms", ePrint 2023
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
 
 == Coding
-- I am a member of the [https://pqc-perk.org PERK] signature submission to the NIST standardization competition and a contributer to the implementation.
+- I am a member of the [https://pqc-perk.org PERK] signature submission team to the NIST post-quantum signatures standardization process, and I have contributed to the implementation.
 - [https://github.com/AlessandroBudroni/EHT-C EHT-C] is my PoC of the public-key cryptosystem EHT on github.
 - I am the creator of the [https://github.com/FBBL/rbbl rbbl] (RAM-Based BKW for LWE) library: a fast and parallelized library written in C to solve LWE instances.
 - I mantain the [https://github.com/FBBL/fbbl fbbl] (File-Based BKW for LWE) library. This is the first implementation of the BKW algorithm for LWE able to solve relatively large LWE instances.
