@@ -35,10 +35,10 @@ Journal Publications:
 - Alessandro Budroni, Federico Pintore, \"Efficient hash maps to G2 on BLS curves"\, Applicable Algebra in Engineering, Communication and Computing 2020.
 
 Drafts:
-- Alessandro Budroni, Isaac A. Canales-Martínez, Lucas Pandolfo Perin, SoK: Methods for Sampling Random Permutations in Post-Quantum Cryptography, eprint 2024
+- Slim Bettaieb, Loïc Bidoux, Alessandro Budroni, Marco Palumbi, Lucas Pandolfo Perin "\Enabling PERK on Resource-Constrained Devices"\, eprint 2024.
+- Alessandro Budroni, Isaac A. Canales-Martínez, Lucas Pandolfo Perin, \"SoK: Methods for Sampling Random Permutations in Post-Quantum Cryptography"\, eprint 2024.
 - Najwa Aaraj, Slim Bettaieb, Loïc Bidoux, Alessandro Budroni, Victor Dyseryn, Andre Esser, Philippe Gaborit, Mukul Kulkarni, Victor Mateu, Marco Palumbi, Lucas Perin, Jean-Pierre Tillich, \"PERK"\, Tech. rep., National Institute of Standards and Technology, 2023.
-- Alessandro Budroni, Jesús-Javier Chi-Domínguez, Mukul Kulkarni, \"Lattice Isomorphism as a Group Action and
-Hard Problems on Quadratic Forms", ePrint 2023
+- Alessandro Budroni, Jesús-Javier Chi-Domínguez, Mukul Kulkarni, \"Lattice Isomorphism as a Group Action and Hard Problems on Quadratic Forms"\, ePrint 2023
 - Alessandro Budroni, Igor Semaev, \"New Public-Key Crypto-System EHT"\, Arxiv 2021.
 - Alessandro Budroni, Kealan McCusker, \"Milagro TLS: Pairing-Based Cryptography for Transport Layer Security"\, Internet-Draft, 2016.
 

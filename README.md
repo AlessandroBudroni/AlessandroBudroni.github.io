@@ -4,6 +4,6 @@
 
 compile it:
 ```
-jemdoc index.jemdoc
+python3 ./jemdoc.py -o index.html index.jemdoc
 ```
 
