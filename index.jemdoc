@@ -24,7 +24,8 @@ Hobbies: photography, skiing (downhill and cross-country), hiking, surfing (when
 
 == Publications
 Conference Publications:
-- Benjamin Benčina, Alessandro Budroni, Jesús-Javier Chi-Domínguez, Mukul Kulkarni, /Properties of Lattice Isomorphism as a Cryptographic Group Action/, to appear in PQCrypto 2024
+- Slim Bettaieb, Alessandro Budroni, Marco Palumbi, Décio Luiz Gazzoni Filho, /Quasi-Optimal Permutation Ranking and Applications to PERK/, to appear in AfricaCrypt 2024.
+- Benjamin Benčina, Alessandro Budroni, Jesús-Javier Chi-Domínguez, Mukul Kulkarni, /Properties of Lattice Isomorphism as a Cryptographic Group Action/, to appear in PQCrypto 2024.
 - Alessandro Budroni, Erik Mårtensson, /Improved Estimation of Key Enumeration with Applications to Solving LWE/, ISIT 2023.
 - Alessandro Budroni, Qian Guo, Thomas Johansson, Erik Mårtensson, Paul Stankovski Wagner, /Making the BKW Algorithm Practical for LWE/, IndoCrypt 2020.
 - Alessandro Budroni, Benjamin Chetioui, Ermes Franch, /Attacks on Integer-RLWE/, ICICS 2020.
@@ -36,7 +37,6 @@ Journal Publications:
 - Alessandro Budroni, Federico Pintore, /Efficient hash maps to G2 on BLS curves/, Applicable Algebra in Engineering, Communication and Computing 2020.
 
 Drafts:
-- Slim Bettaieb, Alessandro Budroni, Marco Palumbi, Décio Luiz Gazzoni Filho, /Quasi-Optimal Permutation Ranking and Applications to PERK/, eprint 2024.
 - Alessandro Budroni, Jesús-Javier Chi-Domínguez, Giuseppe D'Alconzo, Antonio J. Di Scala, Mukul Kulkarni, /Don’t Use It Twice! Solving Relaxed Linear Code Equivalence Problems/, eprint 2024.
 - Slim Bettaieb, Loïc Bidoux, Alessandro Budroni, Marco Palumbi, Lucas Pandolfo Perin /Enabling PERK on Resource-Constrained Devices/, eprint 2024.
 - Alessandro Budroni, Isaac A. Canales-Martínez, Lucas Pandolfo Perin, /SoK: Methods for Sampling Random Permutations in Post-Quantum Cryptography/, eprint 2024.
