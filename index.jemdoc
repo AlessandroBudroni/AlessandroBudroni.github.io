@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Alessandro Budroni 
+==A. Budroni 
 
 ~~~
 {}{img_left}{photos/bio.jpg}{alt text}{200}{250}{https://www.tii.ae/team/dr-alessandro-budroni}
@@ -17,33 +17,33 @@ I am always interested in hearing from colleagues, other cryptography fans, or j
 Hobbies: photography, skiing (downhill and cross-country), hiking, surfing (when I can), climbing. Also, I have been a semi-professional juggler and performed in international juggling conventions and festivals.
 
 == Research Interests
-[photos/tre.jpg >] Cryptoanalysis on LWE \n
-[photos/ladder.jpg >] Lattice-Based Cryptography \n
-[photos/stage.jpg >] Pairing-Based Cryptography \n
+[photos/tre.jpg >] Cryptoanalysis \n
+[photos/ladder.jpg >] Code/Lattice-Based Cryptography \n
+[photos/stage.jpg >] Algorithms for Cryptography \n
 [photos/flash.gif >] Secure Implementations \n
 
 == Publications
 Conference Publications:
-- Slim Bettaieb, Loïc Bidoux, Alessandro Budroni, Marco Palumbi, Lucas Pandolfo Perin, /Enabling PERK on Resource-Constrained Devices/, to appear at TCHES, 2024.
-- Slim Bettaieb, Alessandro Budroni, Marco Palumbi, Décio Luiz Gazzoni Filho, /Quasi-Optimal Permutation Ranking and Applications to PERK/, best paper award at AfricaCrypt, 2024.
-- Benjamin Benčina, Alessandro Budroni, Jesús-Javier Chi-Domínguez, Mukul Kulkarni, /Properties of Lattice Isomorphism as a Cryptographic Group Action/, PQCrypto, 2024.
-- Alessandro Budroni, Erik Mårtensson, /Improved Estimation of Key Enumeration with Applications to Solving LWE/, ISIT, 2023.
-- Alessandro Budroni, Qian Guo, Thomas Johansson, Erik Mårtensson, Paul Stankovski Wagner, /Making the BKW Algorithm Practical for LWE/, IndoCrypt, 2020.
-- Alessandro Budroni, Benjamin Chetioui, Ermes Franch, /Attacks on Integer-RLWE/, ICICS, 2020.
-- Alessandro Budroni, Andrea Tenti, /The Mersenne Low Hamming Combination Search Problem can be reduced to an ILP Problem/, AfricaCrypt, 2019.
-- Quoc-Tin Phan, Alessandro Budroni, Cecilia Pasquini, Francesco G. B. De Natale, /A Hybrid Approach for Multimedia Use Verification/, MediaEval, 2016.
+- S. Bettaieb, L. Bidoux, A. Budroni, M. Palumbi, L. P. Perin, *Enabling PERK on Resource-Constrained Devices*, to appear at TCHES, 2024.
+- S. Bettaieb, A. Budroni, M. Palumbi, D. L. Gazzoni Filho, *Quasi-Optimal Permutation Ranking and Applications to PERK*, /best paper award/ at AfricaCrypt, 2024.
+- B. Benčina, A. Budroni, J.J. Chi-Domínguez, M. Kulkarni, *Properties of Lattice Isomorphism as a Cryptographic Group Action*, PQCrypto, 2024.
+- A. Budroni, E. Mårtensson, *Improved Estimation of Key Enumeration with Applications to Solving LWE*, ISIT, 2023.
+- A. Budroni, Q. Guo, T. Johansson, E. Mårtensson, P. Stankovski Wagner, *Making the BKW Algorithm Practical for LWE*, IndoCrypt, 2020.
+- A. Budroni, B. Chetioui, E. Franch, *Attacks on Integer-RLWE*, ICICS, 2020.
+- A. Budroni, A. Tenti, *The Mersenne Low Hamming Combination Search Problem can be reduced to an ILP Problem*, AfricaCrypt, 2019.
+- Q.T. Phan, A. Budroni, C. Pasquini, F. De Natale, *A Hybrid Approach for Multimedia Use Verification*, MediaEval, 2016.
 
 Journal Publications:
-- Alessandro Budroni, Erik Mårtensson, /Further Improvements of the Estimation of Key Enumeration with Applications to Solving LWE/, Cryptography and Communications, LNCS, 2024.
-- Alessandro Budroni, Qian Guo, Thomas Johansson, Erik Mårtensson, Paul Stankovski Wagner, /Improvements on Making BKW Practical for Solving LWE/, Special Issue "Public-Key Cryptography in the Post-quantum Era" of Cryptography, MDPI, 2021.
-- Alessandro Budroni, Federico Pintore, /Efficient hash maps to G2 on BLS curves/, Applicable Algebra in Engineering, Communication and Computing, 2020.
+- A. Budroni, E., *Further Improvements of the Estimation of Key Enumeration with Applications to Solving LWE*, Cryptography and Communications, LNCS, 2024.
+- A. Budroni, Q. Guo, T. Johansson, E. Mårtensson, P. Stankovski Wagner, *Improvements on Making BKW Practical for Solving LWE*, Special Issue "Public-Key Cryptography in the Post-quantum Era" of Cryptography, MDPI, 2021.
+- A. Budroni, F. Pintore, *Efficient hash maps to G2 on BLS curves*, Applicable Algebra in Engineering, Communication and Computing, 2020.
 
 Drafts and others:
-- Alessandro Budroni, Jesús-Javier Chi-Domínguez, Giuseppe D'Alconzo, Antonio J. Di Scala, Mukul Kulkarni, /Don’t Use It Twice! Solving Relaxed Linear Code Equivalence Problems/, eprint, 2024.
-- Alessandro Budroni, Isaac A. Canales-Martínez, Lucas Pandolfo Perin, /SoK: Methods for Sampling Random Permutations in Post-Quantum Cryptography/, eprint, 2024.
-- Najwa Aaraj, Slim Bettaieb, Loïc Bidoux, Alessandro Budroni, Victor Dyseryn, Andre Esser, Philippe Gaborit, Mukul Kulkarni, Victor Mateu, Marco Palumbi, Lucas Perin, Jean-Pierre Tillich, /PERK/, Tech. rep., National Institute of Standards and Technology, 2023.
-- Alessandro Budroni, Igor Semaev, /New Public-Key Crypto-System EHT/, Arxiv, 2021.
-- Alessandro Budroni, Kealan McCusker, /Milagro TLS: Pairing-Based Cryptography for Transport Layer Security/, Internet-Draft, 2016.
+- A. Budroni, J.J. Chi-Domínguez, G. D'Alconzo, A. J. Di Scala, Mukul Kulkarni, *Don’t Use It Twice! Solving Relaxed Linear Code Equivalence Problems*, eprint, 2024.
+- A. Budroni, I. A. Canales-Martínez, L. P. Perin, *SoK: Methods for Sampling Random Permutations in Post-Quantum Cryptography*, eprint, 2024.
+- N. Aaraj, S. Bettaieb, L. Bidoux, A. Budroni, V. Dyseryn, A. Esser, P. Gaborit, M. Kulkarni, V. Mateu, M. Palumbi, L. Perin, J.P. Tillich, *PERK, Tech. rep.*, National Institute of Standards and Technology, 2023.
+- A. Budroni, I. Semaev, *New Public-Key Crypto-System EHT*, Arxiv, 2021.
+- A. Budroni, K. McCusker, *Milagro TLS: Pairing-Based Cryptography for Transport Layer Security*, Internet-Draft, 2016.
 
 == Open Source Coding
 - You can find [https://github.com/AlessandroBudroni/Sampling_Random_Permutations here] a library that compares different methods to sample permutations.
