@@ -35,11 +35,12 @@ Conference Publications:
 - Q.T. Phan, A. Budroni, C. Pasquini, F. De Natale, *A Hybrid Approach for Multimedia Use Verification*, MediaEval 2016.
 
 Journal Publications:
-- A. Budroni, E., *Further Improvements of the Estimation of Key Enumeration with Applications to Solving LWE*, Cryptography and Communications, LNCS, 2024.
+- A. Budroni, E. Mårtensson, *Further Improvements of the Estimation of Key Enumeration with Applications to Solving LWE*, Cryptography and Communications, LNCS, 2024.
 - A. Budroni, Q. Guo, T. Johansson, E. Mårtensson, P. Stankovski Wagner, *Improvements on Making BKW Practical for Solving LWE*, Special Issue "Public-Key Cryptography in the Post-quantum Era" of Cryptography, MDPI, 2021.
 - A. Budroni, F. Pintore, *Efficient hash maps to G2 on BLS curves*, Applicable Algebra in Engineering, Communication and Computing, 2020.
 
 Drafts and others:
+- A. Budroni, A. Natale, *On the Sample Complexity of Linear Code Equivalence for all Code Rates*, eprint, 2024.
 - A. Budroni, I. A. Canales-Martínez, L. P. Perin, *SoK: Methods for Sampling Random Permutations in Post-Quantum Cryptography*, eprint, 2024.
 - N. Aaraj, S. Bettaieb, L. Bidoux, A. Budroni, V. Dyseryn, A. Esser, P. Gaborit, M. Kulkarni, V. Mateu, M. Palumbi, L. Perin, J.P. Tillich, *PERK, Tech. rep.*, National Institute of Standards and Technology, 2023.
 - A. Budroni, I. Semaev, *New Public-Key Crypto-System EHT*, Arxiv, 2021.
