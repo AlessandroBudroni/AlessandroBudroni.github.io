@@ -2,7 +2,7 @@
 ==Alessandro Budroni 
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{200}{250}{https://www.tii.ae/team/dr-alessandro-budroni}
+{}{img_left}{photos/bio3.png}{alt text}{250}{250}{https://www.tii.ae/team/dr-alessandro-budroni}
 Senior Cryptography Engineer, [https://www.tii.ae/cryptography Technology Innovation Institute, Abu Dhabi] \n
 e-mail: /alessandro \[DOT\] budroni/ \[@\] tii \[DOT\] ae \n
 e-mail: /budroni \[DOT\] alessandro/ \[@\] gmail \[DOT\] com \n
@@ -33,13 +33,13 @@ Conference Publications:
 - Q.T. Phan, A. Budroni, C. Pasquini, F. De Natale, *A Hybrid Approach for Multimedia Use Verification*, MediaEval 2016.
 
 Journal Publications:
-- A. Budroni, A. Natale, *On the Sample Complexity of Linear Code Equivalence for all Code Rates*, /to appear in/ Cryptography and Communications, LNCS, 2025.
+- A. Budroni, A. Natale, *On the Sample Complexity of Linear Code Equivalence for all Code Rates*, Cryptography and Communications, LNCS, 2025.
 - A. Budroni, E. Mårtensson, *Further Improvements of the Estimation of Key Enumeration with Applications to Solving LWE*, Cryptography and Communications, LNCS, 2024.
 - A. Budroni, Q. Guo, T. Johansson, E. Mårtensson, P. Stankovski Wagner, *Improvements on Making BKW Practical for Solving LWE*, Special Issue "Public-Key Cryptography in the Post-quantum Era" of Cryptography, MDPI, 2021.
 - A. Budroni, F. Pintore, *Efficient hash maps to G2 on BLS curves*, Applicable Algebra in Engineering, Communication and Computing, 2020.
 
 Drafts and others:
-- A. Budroni, J.J. Chi-Domínguez, E. Franch *Don’t Use It Twice: Reloaded! On the Lattice Isomorphism Group Action*, eprint, 2025.
+- A. Budroni, J.J. Chi-Domínguez, E. Franch, *Don’t Use It Twice: Reloaded! On the Lattice Isomorphism Group Action*, eprint, 2025.
 - A. Budroni, A. Esser, E. Franch, A. Natale, *Two Is All It Takes: Asymptotic and Concrete Improvements for Solving Code Equivalence*, eprint, 2025.
 - A. Budroni, I. A. Canales-Martínez, L. P. Perin, *SoK: Methods for Sampling Random Permutations in Post-Quantum Cryptography*, eprint, 2024.
 - N. Aaraj, S. Bettaieb, L. Bidoux, A. Budroni, V. Dyseryn, A. Esser, P. Gaborit, M. Kulkarni, V. Mateu, M. Palumbi, L. Perin, J.P. Tillich, *PERK, Tech. rep.*, National Institute of Standards and Technology, 2023.
@@ -47,17 +47,17 @@ Drafts and others:
 - A. Budroni, K. McCusker, *Milagro TLS: Pairing-Based Cryptography for Transport Layer Security*, Internet-Draft, 2016.
 
 == Open Source Coding
-- You can find [https://github.com/AlessandroBudroni/Sampling_Random_Permutations here] a library that compares different methods to sample random permutations.
+- You can find [https://github.com/AlessandroBudroni/Sampling_Random_Permutations here] a library that benchmarks and compares different algorithms to sample random permutations.
 - I am the creator of the [https://github.com/FBBL/rbbl rbbl] (RAM-Based BKW for LWE) library: a fast and parallelized library written in C to solve LWE instances.
 - I am one of the creators of the [https://github.com/FBBL/fbbl fbbl] (File-Based BKW for LWE) library. This is the first implementation of the BKW algorithm for LWE able to solve relatively large LWE instances.
-- I have been mantaining the Apache [https://github.com/apache/incubator-milagro-crypto-c milagro-crypto-c] and [https://github.com/apache/incubator-milagro-crypto-js milagro-crypto-js] libraries.
+- In the past, I have been mantaining the Apache [https://github.com/apache/incubator-milagro-crypto-c milagro-crypto-c] and [https://github.com/apache/incubator-milagro-crypto-js milagro-crypto-js] libraries.
 
-== Teaching (University of Bergen)
-- Teaching Assistant - [https://www.uib.no/en/course/INF247 Cryptology] - spring 2018
-- Teaching Assistant - [https://www.uib.no/en/course/INF143 Web Security] - fall 2018
-- Teaching Assistant - [https://www.uib.no/en/course/INF142 Computer Networks] - spring 2019
-- Teaching Assistant - [https://www.uib.no/en/course/INF143 Applied Cryptography] - fall 2019
-- Teaching Assistant - [https://www.uib.no/en/course/INF140 Introduction to Cybersecurity] - spring 2020
-- Teaching Assistant - [https://www.uib.no/en/course/INF140 Introduction to Cybersecurity] - fall 2020
-
+#== Teaching
+#- [https://www.uib.no/en/course/INF247 Cryptology] (teaching assistant) - spring 2018
+#- [https://www.uib.no/en/course/INF143 Web Security] (teaching assistant) - fall 2018
+#- [https://www.uib.no/en/course/INF142 Computer Networks] (teaching assistant) - spring 2019
+#- [https://www.uib.no/en/course/INF143 Applied Cryptography] (teaching assistant) - fall 2019
+#- [https://www.uib.no/en/course/INF140 Introduction to Cybersecurity] (teaching assistant) - spring 2020
+#- [https://www.uib.no/en/course/INF140 Introduction to Cybersecurity] (teaching assistant) - fall 2020
+#- Introduction to Lattice-based Cryptography (Masters' level intensive course) - spring 2024
 
