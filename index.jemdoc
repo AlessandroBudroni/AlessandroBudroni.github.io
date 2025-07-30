@@ -49,7 +49,7 @@ Drafts and others:
 - A. Budroni, K. McCusker, *Milagro TLS: Pairing-Based Cryptography for Transport Layer Security*, Internet-Draft, 2016.
 
 == Open Source Coding
-- You can find [https://github.com/AlessandroBudroni/Sampling_Random_Permutations here] a library that benchmarks and compares different algorithms to sample random permutations.
+- You can find [https://github.com/AlessandroBudroni/Sampling_Random_Permutations here] a library that benchmarks and compares different algorithms for sampling random permutations.
 - I am the creator of the [https://github.com/FBBL/rbbl rbbl] (RAM-Based BKW for LWE) library: a fast and parallelized library written in C to solve LWE instances.
 - I am one of the creators of the [https://github.com/FBBL/fbbl fbbl] (File-Based BKW for LWE) library. This is the first implementation of the BKW algorithm for LWE able to solve relatively large LWE instances.
 - In the past, I have been mantaining the Apache [https://github.com/apache/incubator-milagro-crypto-c milagro-crypto-c] and [https://github.com/apache/incubator-milagro-crypto-js milagro-crypto-js] libraries.
