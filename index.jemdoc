@@ -49,7 +49,8 @@ Drafts and others:
 - A. Budroni, I. Semaev, *New Public-Key Crypto-System EHT*, Arxiv, 2021.
 - A. Budroni, K. McCusker, *Milagro TLS: Pairing-Based Cryptography for Transport Layer Security*, Internet-Draft, 2016.
 
-== Open Source Coding
+== Some public repositories that might be useful
+- A [https://github.com/AlessandroBudroni/perk-py Python3 implementation of PERK v2.2.0] that mirrors the official [https://pqc-perk.org/resources.html PERK C reference implementation].
 - You can find [https://github.com/AlessandroBudroni/Sampling_Random_Permutations here] a library that benchmarks and compares different algorithms for sampling random permutations.
 - I am the creator of the [https://github.com/FBBL/rbbl rbbl] (RAM-Based BKW for LWE) library: a fast and parallelized library written in C to solve LWE instances.
 - I am one of the creators of the [https://github.com/FBBL/fbbl fbbl] (File-Based BKW for LWE) library. This is the first implementation of the BKW algorithm for LWE able to solve relatively large LWE instances.
