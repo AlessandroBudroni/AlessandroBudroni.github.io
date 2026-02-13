@@ -22,6 +22,7 @@ Hobbies: [wildlife.html wildlife photography], outdoor sports (skiing, hiking, s
 
 == Publications
 Conference Publications:
+- A. Budroni, A. Esser, E. Franch, A. Natale, *Two Is All It Takes: Asymptotic and Concrete Improvements for Solving Code Equivalence*, /to appear at/ PKC 2026.
 - A. Budroni, M. Defranceschi, F. Pintore, *Recursion Enabled: Improved Cryptanalysis of the Permuted Kernel Problem*, /to appear at/ PQCrypto 2026.
 - D. L. Gazzoni Filho, G. Adj, S. Bettaieb, A. Budroni, J Chávez-Saab, F. Rodríguez-Henríquez, *Sota Voce: Low-Noise Sampling of Sparse Fixed-Weight Vectors*, TCHES 2026.
 - D. L. Gazzoni Filho, R. G. Flores e Silva, A. Budroni, M. Palumbi, G Adj, *Runtime Code Generation for Constant-Time Secret-Indexed Array Accesses: Applications to PERK and NTRU*, LatinCrypt 2025.
@@ -43,7 +44,6 @@ Journal Publications:
 - A. Budroni, F. Pintore, *Efficient hash maps to G2 on BLS curves*, Applicable Algebra in Engineering, Communication and Computing, 2020.
 
 Drafts and others:
-- A. Budroni, A. Esser, E. Franch, A. Natale, *Two Is All It Takes: Asymptotic and Concrete Improvements for Solving Code Equivalence*, eprint, 2025.
 - A. Budroni, I. A. Canales-Martínez, L. P. Perin, *SoK: Methods for Sampling Random Permutations in Post-Quantum Cryptography*, eprint, 2024.
 - N. Aaraj, S. Bettaieb, L. Bidoux, A. Budroni, V. Dyseryn, A. Esser, P. Gaborit, M. Kulkarni, V. Mateu, M. Palumbi, L. Perin, J.P. Tillich, *PERK, Tech. rep.*, National Institute of Standards and Technology, 2023.
 - A. Budroni, I. Semaev, *New Public-Key Crypto-System EHT*, Arxiv, 2021.
