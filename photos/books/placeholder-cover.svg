@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-label="Book cover placeholder">
+  <rect width="600" height="800" fill="#f4eadc"/>
+  <rect x="50" y="50" width="500" height="700" rx="22" fill="#fffaf2" stroke="#d8c8b0" stroke-width="4"/>
+  <text x="300" y="370" text-anchor="middle" fill="#7a5a3f" font-family="Avenir, Arial, sans-serif" font-size="36">Book Cover</text>
+  <text x="300" y="420" text-anchor="middle" fill="#9b7a5d" font-family="Avenir, Arial, sans-serif" font-size="24">Replace with image</text>
+</svg>
